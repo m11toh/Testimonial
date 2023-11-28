@@ -1,4 +1,4 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;500;600;700&family=Signika+Negative&display=swap');
 body
 {
     background-color: aliceblue;
@@ -14,4 +14,12 @@ h1
 h2
 {
     color: #FF4500;
+}
+
+p
+{
+    
+  border-style: outset;
+  border-color: black;
+  padding: 20px;
 }
